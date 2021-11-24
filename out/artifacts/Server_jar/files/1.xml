@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<car id="1">
+    <model>2</model>
+    <color>3</color>
+    <speed>4</speed>
+</car>
